@@ -1,4 +1,4 @@
-const CONFIG_HEXO = {
+const CONFIG = {
   HOME_BANNER_ENABLE: true,
   HOME_BANNER_GREETINGS: ['国家一级熬夜运动员🎉'], // 首页大图标语文字
 
